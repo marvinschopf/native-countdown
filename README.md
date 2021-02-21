@@ -1,8 +1,10 @@
-# react-native-countdown
-React Native CountDown
+# rn-countdown
+React Native CountDown  
+
+Fork of [talalmajali/react-native-countdown-component](https://github.com/talalmajali/react-native-countdown-component)
 
 ## Installation
-Run `npm install react-native-countdown-component --save` OR `yarn add react-native-countdown-component --save`
+Run `npm install rn-countdown-component --save` OR `yarn add rn-countdown-component --save`
 
 ## Props
 | Name | Description | Type | Default Value |
@@ -30,7 +32,7 @@ Run `npm install react-native-countdown-component --save` OR `yarn add react-nat
 
 ## Code
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from 'rn-countdown-component';
 
 render() {
     return (
@@ -50,7 +52,7 @@ render() {
 
 ## Code
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from 'rn-countdown-component';
 
 render() {
     return (
@@ -75,7 +77,7 @@ render() {
 
 ## Code
 ```javascript
-import CountDown from 'react-native-countdown-component';
+import CountDown from 'rn-countdown-component';
 
 render() {
     return (
