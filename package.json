@@ -1,12 +1,12 @@
 {
-  "name": "rn-countdown-component",
+  "name": "native-countdown",
   "version": "1.0.0",
   "description": "React Native CountDown Component",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marvinschopf/rn-countdown-component.git"
+    "url": "https://github.com/marvinschopf/native-countdown.git"
   },
   "keywords": [
     "react-native",
@@ -23,9 +23,9 @@
     "name": "Marvin Schopf",
     "email": "marvin@schopf.biz"
   },
-  "homepage": "https://github.com/marvinschopf/rn-countdown-component",
+  "homepage": "https://github.com/marvinschopf/native-countdown",
   "bugs": {
-    "url": "https://github.com/marvinschopf/rn-countdown-component/issues"
+    "url": "https://github.com/marvinschopf/native-countdown/issues"
   },
   "dependencies": {
     "lodash": "4.17.13",
