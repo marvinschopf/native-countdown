@@ -1,6 +1,6 @@
 {
 	"name": "native-countdown",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "React Native CountDown Component",
 	"main": "index.js",
 	"types": "index.d.ts",
@@ -29,8 +29,8 @@
 	},
 	"dependencies": {
 		"lodash": "4.17.13",
-		"sprintf-js": "1.1.1",
-		"prop-types": "15.5.8"
+		"prop-types": "15.5.8",
+		"sprintf-js": "1.1.1"
 	},
 	"files": [
 		"index.d.ts",
