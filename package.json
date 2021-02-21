@@ -28,8 +28,15 @@
     "url": "https://github.com/marvinschopf/rn-countdown-component/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.13",
-    "sprintf-js": "^1.1.1",
-    "prop-types": "^15.5.8"
-  }
+    "lodash": "4.17.13",
+    "sprintf-js": "1.1.1",
+    "prop-types": "15.5.8"
+  },
+  "files": [
+    "index.d.ts",
+    "index.js",
+    "package.json",
+    "LICENSE",
+    "README.md"
+  ]
 }
